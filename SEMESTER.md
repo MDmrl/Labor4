@@ -26,7 +26,3 @@
 - Ausschaltvörgänge
 
 ### Kraftfahrzeuge 1
-
-- Fahrzeugdynamik
-- Fahrwiderstände
-  
