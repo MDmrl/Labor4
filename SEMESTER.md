@@ -15,6 +15,9 @@
 
 ### Mathematik 3
 
+- Fouriere
+- Laplace
+
 ### Elektrotechnik 3
 
 ### Kraftfahrzeuge 1
