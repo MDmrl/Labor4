@@ -4,7 +4,7 @@
 
 ## Vorlesungen
 
-### Software-Technik
+### SOOOOFFFTWARE-TECHHNIK
 
 - Einführung
 - Vorgehensmodelle
@@ -19,5 +19,10 @@
 - Laplace
 
 ### Elektrotechnik 3
+
+- Komplexe Wechselstromtechnik
+- Netzwerkanalyse
+- Einschaltvörgänge
+- Ausschaltvörgänge
 
 ### Kraftfahrzeuge 1
