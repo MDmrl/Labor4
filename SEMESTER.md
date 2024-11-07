@@ -4,7 +4,7 @@
 
 ## Vorlesungen
 
-### Software-Technik
+### software-technikkkkkkkkkk
 
 - Einführung
 - Vorgehensmodelle
