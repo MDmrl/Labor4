@@ -4,7 +4,7 @@
 
 ## Vorlesungen
 
-### SOOOOFFFTWARE-TECHHNIK
+### Software-Technik
 
 - Einführung
 - Vorgehensmodelle
